@@ -1,3 +1,5 @@
 - Https: https://github.com/ThangB1906766/learn-laravel.git
 - Đổi tên https => learn-laravel
 - Mới tạo branch cho Nhật Trường!
+- Trung Nghĩa vừa tạo branch và push lên remote!
+- Master branch vừa push lên nội dung mới!
