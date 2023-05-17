@@ -1,1 +1,2 @@
-Https: https://github.com/ThangB1906766/learn-laravel.git
+- Https: https://github.com/ThangB1906766/learn-laravel.git
+- Đổi tên https => learn-laravel
